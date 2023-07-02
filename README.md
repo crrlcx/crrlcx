@@ -1,8 +1,8 @@
 ### Carrol Cox
 
-- 1x engineer
-- open source software enthusiast
-- reliability enjoyer
+- [1x engineer](https://1x.engineer/)
+- [open-source software enthusiast](https://opensource.org)
+- [reliability enjoyer](https://bravenewgeek.com/sre-doesnt-scale)
 
 <!--
 **torrocus/torrocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
